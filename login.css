@@ -1,0 +1,62 @@
+.header {
+    background: #ebebec;
+    padding: 49px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+button.btn {
+    background: #0bbb11;
+    width: 100%;
+    color: white;
+}
+
+::placeholder {
+    padding-left: 8px;
+}
+
+button.btn:hover {
+    background: #1c910e;
+    color: white;
+}
+
+input {
+    border-radius: 3px;
+    height: 37px;
+}
+
+.user,
+.pass,
+.submit {
+    margin: 16px 7px;
+}
+
+input {
+    width: 100%;
+    border: 1px solid #cbcbcb;
+}
+
+.content .row {
+    margin: auto;
+    width: 385px;
+    border: 1px solid #cbcbcb;
+}
+
+.content .row.r2 {
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.content .row.r1 {
+    border-bottom: none;
+    padding: 8px 8px 0px 8px;
+    background: #ebebec;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.content {
+    padding: 35px 44px;
+}

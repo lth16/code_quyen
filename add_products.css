@@ -1,0 +1,77 @@
+.btn.btn-danger {
+    position: absolute;
+    right: 0;
+    height: 41px;
+    border: 1px solid #b70f0f;
+}
+
+.header .col-12.col-lg-4 {
+    position: relative;
+}
+
+.header {
+    background: #ebebec;
+    padding: 49px;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.header a:hover {
+    color: white;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+small.sm_db {
+    padding: 0;
+}
+
+button.btn {
+    background: #2967c1;
+    color: white;
+}
+
+button.btn:hover {
+    background: #0c50b3;
+    color: white;
+}
+
+small.sm1 {
+    padding-left: 5px;
+}
+
+td.tr_db {
+    text-align: left;
+}
+
+td {
+    padding-top: 14px;
+    text-align: right;
+}
+
+input[type="text"] {
+    width: 100%;
+}
+
+table {
+    width: 437px;
+    margin: 16px 42px;
+}
+
+small {
+    font-weight: 500;
+    padding-right: 20px;
+}
+
+.content p {
+    margin-bottom: -14px;
+}
+
+.content {
+    padding: 34px 44px;
+}

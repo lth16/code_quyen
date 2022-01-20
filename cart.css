@@ -1,0 +1,110 @@
+.header {
+    background: #ebebec;
+    padding: 49px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.btn.btna.btn11.spe {
+    width: 120px;
+}
+
+.btn_cuoi a {
+    text-decoration: none;
+}
+
+.btn.btna.btn11.db {
+    background: #1ca90b;
+    border: 1px solid #13830b;
+}
+
+.btn_cuoi .btn.btna.btn11.db {
+    width: 184px;
+}
+
+.btn.btna.btn11.db:hover {
+    background: #35990b;
+}
+
+.btn.btna.btn22.db {
+    background: #1ca90b;
+    border: 1px solid #13830b;
+}
+
+table.table {
+    border-top: 1px solid #e0dede;
+}
+
+.content {
+    padding: 35px 44px;
+}
+
+.btnc a {
+    text-decoration: none;
+}
+
+.table-responsive a {
+    text-decoration: none;
+}
+
+.ke {
+    border: 1px solid #c1bfbf;
+    border-radius: 5px;
+    padding: 10px 10px 0px 10px;
+}
+
+.header a {
+    color: black;
+    text-decoration: none;
+}
+
+.header a:hover {
+    color: #070707;
+}
+
+.btn.btna.btn22 {
+    background: #fcbd5e;
+    border: 1px solid #e89653;
+    margin-top: 24px;
+    color: white;
+    position: absolute;
+    right: 0;
+}
+
+.btn.btna.btn22:hover {
+    background: #098d17;
+}
+
+.btn.btna.btn11 {
+    background: #da3302;
+    border: 1px solid #b1280b;
+    color: white;
+    width: 100px;
+}
+
+.btn_cuoi .btn.btna.btn11.db {
+    margin-top: 25px;
+}
+
+.btn.btna.btn11:hover {
+    background: #812403;
+}
+
+.btnc {
+    display: flex;
+    position: relative;
+}
+
+.text {
+    margin-left: 8px;
+}
+
+.btn.btna {
+    display: flex;
+}
+
+.btn.btna.btn22.db.db1 {
+    margin-top: 0px;
+}
